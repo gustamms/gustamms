@@ -1,4 +1,4 @@
-Olá, me chamo Gustavo sou **desenvolvedor front-end e back-end**, atualmente trabalho com **PHP no back-end** e no **front-end com HTML, CSS e js puro**, como também em **VueJS**.
+Olá, me chamo Gustavo, sou **desenvolvedor front-end e back-end**, atualmente trabalho com **PHP no back-end** e no **front-end com HTML, CSS e js puro**, como também em **VueJS**.
 Curso **engenharia da computação** na **faculdade de engenharia de Sorocaba**.
 🔭 Estou trabalhando em um projeto de um CRM de envio de e-mail marketing.
 📬 Caso queira falar comigo [Gustavo Mendes](mailto:gustamms@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
