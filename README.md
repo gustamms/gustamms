@@ -1,7 +1,14 @@
-Olá, me chamo Gustavo, sou **desenvolvedor front-end e back-end**, atualmente trabalho com **PHP no back-end** e no **front-end com HTML, CSS e js puro**, como também em **VueJS**.
-Curso **engenharia da computação** na **faculdade de engenharia de Sorocaba**.
-🔭 Estou trabalhando em um projeto de um CRM de envio de e-mail marketing.
-📬 Caso queira falar comigo [Gustavo Mendes](mailto:gustamms@hotmail.com?subject=[GitHub]%20Assunto)
+# **Olá, me chamo Gustavo, sou desenvolvedor full-stack**
+
+![Gustamms GitHub stats](https://github-readme-stats.vercel.app/api?username=gustamms&show_icons=true&theme=radical)
+# 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!--
 **gustamms/gustamms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
