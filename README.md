@@ -5,7 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gustamms&show_icons=true&theme=radical" alt="Gustavo Mendes Stats" align="right" />
 </a>
 
-- :seedling: &nbsp;Estou aprendendo **Django**
 - :speech_balloon: &nbsp;Gosto de falar sobre tudo, ainda mais sobre **desenvolvimento**
 - :mailbox: &nbsp;Fique a vontade para me procurar e perguntar sobre **qualquer coisa**, fico **feliz** em **ajudar** :)
 - :computer: &nbsp;**[LinkedIn]**
